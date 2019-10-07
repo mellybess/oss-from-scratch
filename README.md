@@ -3,7 +3,7 @@
 
 ### An example repository with the following key Open Source tools
 
-- [ ] CONTIBTING.md
+- [ ] CONTRIBTING.md
 - [ ] Issue and PR templates
 - [ ] Required Status Checks
 - [ ] Probot Request Info (off the shelf)
