@@ -5,6 +5,6 @@
 
 - [ ] CONTRIBTING.md
 - [ ] Issue templates
-- [ ] Required Status Checks
+- [ ] Enforce Status Checks
 - [ ] Probot Request Info (off the shelf)
 - [ ] Probot Issue Reply (hosted with Glitch)
